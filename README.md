@@ -1,7 +1,7 @@
 Hi 👋 this is awpt1mus, I am a Full Stack Engineer
 =========================
 
-I wrote my first 'Hello World' program 5 years ago, since then I have been hooked to programming. This is my alternate account, I build fun real world projects on here with people across the world. If you have an interesting project idea , need someone to help out , contribute, need learning buddy, give me a 🤙.
+I wrote my first 'Hello World' program 5 years ago, since then I have been hooked to programming. This is my alternate account, I am hoping to build fun real world projects on here with people across the world. If you have an interesting project idea , need someone to help out , contribute, need learning buddy, give me a 🤙.
 
 *   🧠  I'm learning DSA , AWS CDK , CI & CD , Docker & K8s.
 *   🤝  I'm open to collaborating on anything interesting.
